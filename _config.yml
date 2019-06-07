@@ -16,8 +16,8 @@ location: Colombia
 profile_img: 
 profile: 
 social:
-  github: geocodinglife
-  linkedin: ricardo-alarcon-44079b105
+  github: https://github.com/geocodinglife
+  linkedin: https://www.linkedin.com/in/ricardo-alarcon-44079b105/
 
 # Build settings
 markdown: kramdown
