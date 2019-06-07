@@ -1,21 +1,23 @@
 # Site/SEO settings
-email: 
+email: geocodinglife@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
+title: Ricardo Alarcon 
+description: Ruby on Rails Developer
 url: ""
 baseurl: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Ricardo Alarcon
+location: Colombia
 profile_img: 
 profile: 
 social:
-  github: 
+  github: geocodinglife
+  linkedin: ricardo-alarcon-44079b105
 
 # Build settings
 markdown: kramdown
