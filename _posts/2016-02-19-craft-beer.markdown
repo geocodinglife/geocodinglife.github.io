@@ -6,7 +6,7 @@ categories:
   - Juice
 description:
 #image: https://picsum.photos/2000/1200?image=1003
-image: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiP08-mjdbiAhVQvlkKHcyvBo8QjRx6BAgBEAU&url=https%3A%2F%2Fmemegenerator.net%2Finstance%2F81959000%2Fdog-computer-just-keep-coding&psig=AOvVaw2vtMyE0RNeOUmbJeQTb4fm&ust=1559953369701014
+image: 'assets/images/geo.jpeg'
 image-sm: https://picsum.photos/500/300?image=1003
 ---
 Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
